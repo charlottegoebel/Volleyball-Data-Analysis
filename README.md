@@ -1,2 +1,2 @@
-# Volleyball-Data-Analysis
-Jterm project: analyzing NCSSM volleyball stats
+# Volleyball Data Analysis
+J-term Project: Analyzing NCSSM Volleyball Statistics. 
