@@ -22,7 +22,7 @@ Kill Percentage (Kill %): the percentage of attacks which are kills (an unreturn
 
 Hitting Percentage (Hit %): the percentage of kills, minus attacking errors, divided by total hitting attempts in the season. Attacking errors may include hitting the ball out of bounds, in the net, or at the antenna. This statistic shows how accurate a player may hit the ball.
 
-![](#hittingpercent)
+![](#teamdata)
 
 ## Serve Receiving
 Service Reception Percentage (SR %): the number of successful service receptions divided by total attempted service receptions. An unsuccessful service reception, or a service error, may happen when, receiving a serve, a player makes a ball handling error, lets the ball hit the floor in their area, passes a ball which cannot be controlled, etc. This statistic shows how well a player can handle a serve in their area.
