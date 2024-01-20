@@ -93,7 +93,7 @@ Woods has very high kill, hitting, ace, blocking, ball handling, service receivi
 
 
 # Conclusion
-The NCSSM Volleyball Team is made up of many strong players. Each player has their own strengths, making them suitable players for their respective positions on the court. Our volleyball-statistic analysis makes it easy to explore an individual player's strengths and weaknesses. This arrangement of data may allow a player to improve their deficiencies or find a new volleyball position to take advantage of their strengths.
+ The NCSSM Volleyball Team is made up of many strong players. Each player has their own strengths making them suitable players for their respective positions on the court. Our volleyball-statistic analysis makes it easy to explore an individual player's strengths and weaknesses. This arrangement of data may allow a player to improve their deficiencies or find a new volleyball position to take advantage of their strengths.
 
 ## References
 Stats - NCSSM: Durham Unicorns (Durham, NC) Varsity Volleyball 23-24. https://www.maxpreps.com/nc/durham/ncssm-durham-unicorns/volleyball/stats/. Accessed 22 Jan. 2024.
