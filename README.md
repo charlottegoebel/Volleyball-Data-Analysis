@@ -23,6 +23,7 @@ Kill Percentage (Kill %): the percentage of attacks which are kills (an unreturn
 Hitting Percentage (Hit %): the percentage of kills, minus attacking errors, divided by total hitting attempts in the season. Attacking errors may include hitting the ball out of bounds, in the net, or at the antenna. This statistic shows how accurate a player may hit the ball.
 
 ![](#teamdata)
+
 The players, numbered 1 through 10, are noted in the table below.
 
 ## Serve Receiving
