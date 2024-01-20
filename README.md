@@ -5,7 +5,7 @@ authors: Hadley Woods & Charlotte Goebel
 ---
 
 +++{"part":"abstract"}
-Put a summary of the data here
+The volleyball team at the North Carolina School of Science and Mathematics (NCSSM) is made up of many strong players. Common volleyball statistics to analyze the proficiencies of a player include: serving percentage, ace percentage, kill percentagte, hitting percentage, service receiving percentage, blocking percentage, ball handling percentage, and digging percentage. However, it is difficult to analyze an indivudial player's many statistics against themselves, which may aid in noticing and improving weaknesses. Our model for analyzing and plotting volleyball player data proposes a solution to this issue.
 +++
 
 # Aspects of Volleyball
@@ -89,8 +89,11 @@ Todd has a very high blocking percentage and a great kill percentage. There was 
 ![](#hadley)
 Woods has very high kill, hitting, ace, blocking, ball handling, service receiving, and digging percentages. She is a very well rounded player. 
 
+# Summary
+
+
 # Conclusion
-conclusion goes here
+The NCSSM Volleyball Team is made up of many strong players. Each player has their own strengths, making them suitable players for their respective positions on the court. Our volleyball-statistic analysis makes it easy to explore an individual player's strengths and weaknesses. This arrangement of data may allow a player to improve their deficiencies or find a new volleyball position to take advantage of their strengths.
 
 ## References
 Stats - NCSSM: Durham Unicorns (Durham, NC) Varsity Volleyball 23-24. https://www.maxpreps.com/nc/durham/ncssm-durham-unicorns/volleyball/stats/. Accessed 22 Jan. 2024.
