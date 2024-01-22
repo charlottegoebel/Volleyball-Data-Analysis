@@ -5,10 +5,10 @@ authors: Hadley Woods & Charlotte Goebel
 ---
 
 +++{"part":"abstract"}
-Put a summary of the data here
+In order to learn to use computational data analysis tools we needed a data set. The data that we ended up using was the NCSSM Women's Volleyball team 2023 season statistics. For this we had to access 
 +++
 
-# Overview
+# Background
  So what it shows, method, what else is going to go in here
 
 In order to learn to use computational data analysis tools we needed a data set. The data that we ended up using was the NCSSM Women's Volleyball team 2023 season statistics. For this we had to access
@@ -16,32 +16,28 @@ In order to learn to use computational data analysis tools we needed a data set.
 # Stats by Player
 These are the analysis of each player's stats. We will look at the high and lows of each player. We will also look at how a player's position and court time might effect the appearence of their stats.
 
-## All Stats For All Players
+  ## Arun
+![](#my-cell)
 
+## Layno
 
+## Sanford
 
-  ### Arun
-![](#my-Arun)
+## Collier
 
-### Layno
+## Ulak
 
-### Sanford
+## Okonkwo
 
-### Collier
+## Donlon
 
-### Ulak
+## Ellis
 
-### Okonkwo
+## Wilkins
 
-### Donlon
+## Todd
 
-### Ellis
-
-### Wilkins
-
-### Todd
-
-### Woods
+## Woods
 
 # Conclusion
 
