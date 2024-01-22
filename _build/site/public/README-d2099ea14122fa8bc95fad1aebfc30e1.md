@@ -75,3 +75,5 @@ These are the analysis of each player's stats. We will look at the high and lows
 
 ## References
 Stats - NCSSM: Durham Unicorns (Durham, NC) Varsity Volleyball 23-24. https://www.maxpreps.com/nc/durham/ncssm-durham-unicorns/volleyball/stats/. Accessed 22 Jan. 2024.
+
+Eom, Han Joo, and Robert W. Schutz. “Statistical Analyses of Volleyball Team Performance.” Research Quarterly for Exercise and Sport, vol. 63, no. 1, Mar. 1992, pp. 11–18. DOI.org (Crossref), https://doi.org/10.1080/02701367.1992.10607551.
