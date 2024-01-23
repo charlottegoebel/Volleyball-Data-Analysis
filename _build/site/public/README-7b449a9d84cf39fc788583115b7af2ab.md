@@ -37,13 +37,12 @@ Digging Percentage (D %): the amount of successful digs divided by the total num
 ## Calulations
 When reporting any kind of stat percentage there are calculations that need to be done. Some of these caculations are simple, like the kill percentage, and some are a bit more complicated, like blocking perecentage.
 
-add in calculations here
+## Stat Chart
+![](#my-cell)
 
 # Stats by the Player
 
-This analysis of each player's stats will look at the high and lows of each player. We will also look at how a player's position and court time might effect the appearence of their stats.
-
-![](#my-cell)
+These are the analysis of each player's stats. We will look at the high and lows of each player. We will also look at how a player's position and court time might effect the appearence of their stats.
 
 ### Arun
 ![](#saachi)
@@ -90,7 +89,6 @@ Todd has a very high blocking percentage and a great kill percentage. There was 
 Woods has very high kill, hitting, ace, blocking, ball handling, service receiving, and digging percentages. She is a very well rounded player. 
 
 # Conclusion
-conclusion goes here
 
 ## References
 Stats - NCSSM: Durham Unicorns (Durham, NC) Varsity Volleyball 23-24. https://www.maxpreps.com/nc/durham/ncssm-durham-unicorns/volleyball/stats/. Accessed 22 Jan. 2024.
