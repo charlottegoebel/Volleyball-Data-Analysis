@@ -20,7 +20,12 @@ Ace Percentage (Ace %): the percentage of serves that are aces (serves where the
 
 Kill Percentage (Kill %): the percentage of attacks that are kills (an unreturnable attacked ball) divided by total hitting attempts in the season. This statistic may show how powerful, precise, or consistent an attacker can hit the ball.
 
-Hitting Percentage (Hit %): the percentage of kills, minus attacking errors, divided by total hitting attempts in the season. Attacking errors may include hitting the ball out of bounds, into the net, or at the antenna. This statistic shows how accurately a player may hit the ball.
+Hitting Percentage (Hit %): the percentage of kills, minus attacking errors, divided by total hitting attempts in the season. Attacking errors may include hitting the ball out of bounds, into the net, or at the antenna. This statistic shows how accurately a player may hit the ball. See [](#hitting%-equation) for more information.
+
+```{math}
+:label: hitting%-equation
+Hit % = ((Kills - Attack Errors) / Total Hitting Attempts) * 100
+```
 
 ![](#teamdata)
 
