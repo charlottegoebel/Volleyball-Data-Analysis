@@ -79,7 +79,7 @@ Ball Handling Percentage = ((Ball Handling Attempts - Ball Handling Errors) / Ba
 
 ```{math}
 :label: dig-equation
-Digging Percentage = ((Total Digs - Dig Errors) / Total Dig Attempts) * 100
+Digging Percentage = ((Digs) / Digs + Dig Errors) * 100
 ```
 
 # Stats by the Player
