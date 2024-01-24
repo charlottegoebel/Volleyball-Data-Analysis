@@ -44,42 +44,42 @@ When reporting any kind of stat percentage there are calculations that need to b
 
 ```{math}
 :label: serv%-equation
-Serving % = ((Successful Serves) / Total Service Attempts) * 100
+Serving Percentage = ((Successful Serves) / Total Service Attempts) * 100
 ```
 
 ```{math}
 :label: ace%-equation
-Ace % = ((Aces) / Total Service Attempts) * 100
+Ace Percentage = ((Aces) / Total Service Attempts) * 100
 ```
 
 ```{math}
 :label: kill%-equation
-Kill % = ((Kills) / Total Hitting Attempts) * 100
+Kill Percentage = ((Kills) / Total Hitting Attempts) * 100
 ```
 
 ```{math}
 :label: hitting%-equation
-Hit % = ((Kills - Attack Errors) / Total Hitting Attempts) * 100
+Hit Percentage = ((Kills - Attack Errors) / Total Hitting Attempts) * 100
 ```
 
 ```{math}
 :label: SR%-equation
-Service Receiving % = ((Total Service Receptions - Service Reception Errors) / Total Service Receptions) * 100
+Service Receiving Percentage = ((Total Service Receptions - Service Reception Errors) / Total Service Receptions) * 100
 ```
 
 ```{math}
 :label: block%-equation
-Block % = ((Solo Blocks - Assisted Blocks) / (Solo Blocks + Assisted Blocks + Block Errors)) * 100
+Block Percentage = ((Solo Blocks - Assisted Blocks) / (Solo Blocks + Assisted Blocks + Block Errors)) * 100
 ```
 
 ```{math}
 :label: BH%-equation
-Ball Handling % = ((Ball Handling Attempts - Ball Handling Errors) / Ball Handling Attempts) * 100
+Ball Handling Percentage = ((Ball Handling Attempts - Ball Handling Errors) / Ball Handling Attempts) * 100
 ```
 
 ```{math}
 :label: dig%-equation
-Digging % = ((Total Digs - Dig Errors) / Total Dig Attempts) * 100
+Digging Percentage = ((Total Digs - Dig Errors) / Total Dig Attempts) * 100
 ```
 
 # Stats by the Player
