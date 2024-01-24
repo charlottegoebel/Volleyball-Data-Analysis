@@ -12,73 +12,73 @@ The volleyball team at the North Carolina School of Science and Mathematics (NCS
 
 ## Serving
 
-Serving Percentage (Serv %): the number of times a player served the ball in play divided by the total number of service attempts. This statistic shows how well a player can serve the ball in bounds. See [](#serv%-equation) for more information.
+Serving Percentage (Serv %): the number of times a player served the ball in play divided by the total number of service attempts. This statistic shows how well a player can serve the ball in bounds. See [](#serv-equation) for more information.
 
-Ace Percentage (Ace %): the percentage of serves that are aces (serves where the ball may hit the court in bounds or it is met by a receiving error) divided by the total service attempts. This statistic may show a player's power, precision, and consistency when serving. See [](#ace%-equation) for more information.
+Ace Percentage (Ace %): the percentage of serves that are aces (serves where the ball may hit the court in bounds or it is met by a receiving error) divided by the total service attempts. This statistic may show a player's power, precision, and consistency when serving. See [](#ace-equation) for more information.
 
 ## Attacking 
 
-Kill Percentage (Kill %): the percentage of attacks that are kills (an unreturnable attacked ball) divided by total hitting attempts in the season. This statistic may show how powerful, precise, or consistent an attacker can hit the ball. See [](#kill%-equation) for more information.
+Kill Percentage (Kill %): the percentage of attacks that are kills (an unreturnable attacked ball) divided by total hitting attempts in the season. This statistic may show how powerful, precise, or consistent an attacker can hit the ball. See [](#kill-equation) for more information.
 
-Hitting Percentage (Hit %): the percentage of kills, minus attacking errors, divided by total hitting attempts in the season. Attacking errors may include hitting the ball out of bounds, into the net, or at the antenna. This statistic shows how accurately a player may hit the ball. See [](#hitting%-equation) for more information.
+Hitting Percentage (Hit %): the percentage of kills, minus attacking errors, divided by total hitting attempts in the season. Attacking errors may include hitting the ball out of bounds, into the net, or at the antenna. This statistic shows how accurately a player may hit the ball. See [](#hitting-equation) for more information.
 
 ![](#teamdata)
 
 The players, numbered 1 through 10, are noted in the table below.
 
 ## Serve Receiving
-Service Reception Percentage (SR %): the number of successful service receptions divided by total attempted service receptions. An unsuccessful service reception, or a service error, may happen when receiving a serve, a player makes a ball handling error, the ball hits the court, passes a ball that cannot be controlled, etc. This statistic shows how well a player can handle receiving a serve. See [](#SR%-equation) for more information.
+Service Reception Percentage (SR %): the number of successful service receptions divided by total attempted service receptions. An unsuccessful service reception, or a service error, may happen when receiving a serve, a player makes a ball handling error, the ball hits the court, passes a ball that cannot be controlled, etc. This statistic shows how well a player can handle receiving a serve. See [](#SR-equation) for more information.
 
 ## Blocking
-Blocking Percentage (Block %): the number of successful blocks (both solo and assisted) divided by the number of block attempts (successful blocks plus block errors, which a player gets for a violation called while blocking). This statistic shows how well a player can block attacks at the net. See [](#block%-equation) for more information.
+Blocking Percentage (Block %): the number of successful blocks (both solo and assisted) divided by the number of block attempts (successful blocks plus block errors, which a player gets for a violation called while blocking). This statistic shows how well a player can block attacks at the net. See [](#block-equation) for more information.
 
 
 ## Ball Handling
-Ball Handling Percentage (BH %): the number of successful ball handling touches, which is ball handling attempts minus the number of errors, divided by the number of ball handling attempts. This statistic shows the percentage of times a player may touch the ball without making an error called by the referee (lift, carry, double touch, etc.) and have it result in the winning of a point. See [](#BH%-equation) for more information.
+Ball Handling Percentage (BH %): the number of successful ball handling touches, which is ball handling attempts minus the number of errors, divided by the number of ball handling attempts. This statistic shows the percentage of times a player may touch the ball without making an error called by the referee (lift, carry, double touch, etc.) and have it result in the winning of a point. See [](#BH-equation) for more information.
 
 ## Digging
-Digging Percentage (D %): the amount of successful digs divided by the total number of attempted digs. A dig is when a player passes a ball to their team which the other team has attacked. A non-successful dig, or a dig error, is made when an attacked ball hits the floor in a player’s area or the player passes an uncontrollable ball. This statistic shows how well a player can react to attacks. See [](#dig%-equation) for more information.
+Digging Percentage (D %): the amount of successful digs divided by the total number of attempted digs. A dig is when a player passes a ball to their team which the other team has attacked. A non-successful dig, or a dig error, is made when an attacked ball hits the floor in a player’s area or the player passes an uncontrollable ball. This statistic shows how well a player can react to attacks. See [](#dig-equation) for more information.
 
 ## Calulations
 When reporting any kind of stat percentage there are calculations that need to be done. Some of these caculations are simple, like the kill percentage, and some are a bit more complicated, like blocking perecentage.
 
 ```{math}
-:label: serv%-equation
+:label: serv-equation
 Serving Percentage = ((Successful Serves) / Total Service Attempts) * 100
 ```
 
 ```{math}
-:label: ace%-equation
+:label: ace-equation
 Ace Percentage = ((Aces) / Total Service Attempts) * 100
 ```
 
 ```{math}
-:label: kill%-equation
+:label: kill-equation
 Kill Percentage = ((Kills) / Total Hitting Attempts) * 100
 ```
 
 ```{math}
-:label: hitting%-equation
+:label: hitting-equation
 Hit Percentage = ((Kills - Attack Errors) / Total Hitting Attempts) * 100
 ```
 
 ```{math}
-:label: SR%-equation
+:label: SR-equation
 Service Receiving Percentage = ((Total Service Receptions - Service Reception Errors) / Total Service Receptions) * 100
 ```
 
 ```{math}
-:label: block%-equation
+:label: block-equation
 Block Percentage = ((Solo Blocks - Assisted Blocks) / (Solo Blocks + Assisted Blocks + Block Errors)) * 100
 ```
 
 ```{math}
-:label: BH%-equation
+:label: BH-equation
 Ball Handling Percentage = ((Ball Handling Attempts - Ball Handling Errors) / Ball Handling Attempts) * 100
 ```
 
 ```{math}
-:label: dig%-equation
+:label: dig-equation
 Digging Percentage = ((Total Digs - Dig Errors) / Total Dig Attempts) * 100
 ```
 
