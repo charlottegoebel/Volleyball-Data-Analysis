@@ -5,7 +5,7 @@ authors: Hadley Woods & Charlotte Goebel
 ---
 
 +++{"part":"abstract"}
-The volleyball team at the North Carolina School of Science and Mathematics (NCSSM) is made up of many strong players. Common volleyball statistics to analyze the proficiencies of a player include: serving percentage, ace percentage, kill percentagte, hitting percentage, serve-receiving percentage, blocking percentage, ball handling percentage, and digging percentage. However, it is difficult to analyze an indivudial player's many statistics against themselves, which may aid in noticing and improving weaknesses. Our model for analyzing and plotting volleyball player data proposes a solution to this issue.
+The volleyball team at the North Carolina School of Science and Mathematics (NCSSM) is made up of many strong players. Common volleyball statistics to analyze the proficiencies of a player include: serving percentage, ace percentage, kill percentagte, hitting percentage, service receiving percentage, blocking percentage, ball handling percentage, and digging percentage. However, it is difficult to analyze an indivudial player's many statistics against themselves, which may aid in noticing and improving weaknesses. Our model for analyzing and plotting volleyball player data proposes a solution to this issue.
 +++
 
 # Aspects of Volleyball
@@ -42,6 +42,8 @@ Digging Percentage (D %): the amount of successful digs divided by the total num
 ## Calulations
 When reporting any kind of stat percentage there are calculations that need to be done. Some of these caculations are simple, like the kill percentage, and some are a bit more complicated, like blocking perecentage.
 
+add in calculations here
+
 # Stats by the Player
 
 This analysis of each player's stats will look at the high and lows of each player. We will also look at how a player's position and court time might effect the appearence of their stats.
@@ -50,7 +52,7 @@ This analysis of each player's stats will look at the high and lows of each play
 
 ### Arun
 ![](#saachi)
-Arun has very high serving, serve-receiving, ball handling, kill, and digging percentages. She also has a high blocking percentage. Additionally, though hard to see, she has a good hitting percentage. This is most likely the result of high playing time. She rarely saw the bench during the season playing all the way around on the court at some point in every set of every game. Arun had more chances to put up successful stats. Her position as an outside hitter also means that her blocking and hitting percentages should be good because that is her main job on the front row. Her serve-receive and dig percentages should also be good because that is her main job when on the back row.
+Arun has very high serving, service receiving, ball handling, kill, and digging percentages. She also has a high blocking percentage. Additionally, though hard to see, she has a good hitting percentage. This is most likely the result of high playing time. She rarely saw the bench during the season playing all the way around on the court at some point in every set of every game. Arun had more chances to put up successful stats. Her position as an outside hitter also means that her blocking and hitting percentages should be good because that is her main job on the front row. Her serve-receive and dig percentages should also be good because that is her main job when on the back row.
 
 ### Layno
 ![](#jules)
@@ -70,27 +72,27 @@ Ulak has very high serving, serve-receiving, and digging percentages. This is mo
 
 ### Okonkwo
 ![](#amy)
-Okwonko has exceptional dig and serve-receiving percentages. She also has a high kill percentage.  This is because, like Stanford, Okwonko is a middle she was very successful whenever she was set and she was involved with every chance to block when she was on the court resulting in the percentages related being higher than others.
+Okwonko has exceptional dig and service receiving percentages. She also has a high kill percentage.
 
 ### Donlon
 ![](#maren)
-Donlon has high kill and dig percentages. There was not enough data to determine her block percentage. This is most likely because she was an outside. As an outside, she was set often resulting in her hitting and kill percentages being higher than most. Her dig percentages being higher is most likely because most hits coming from another team went in her area of the court resulting in a higher dig percentage. Not having enough data for a blocking percentage is unusual for any hitter especially one who played most games but it was not often that you saw Donlon blocking in the first place resulting in an uncalulable block percentage.
+Donlon has high kill and dig percentages. There was not enough data to determine her block percentage
 
 ### Ellis
 ![](#taylor)
-It was not often that Ellis was seen on the court which is most likely the result of so many gaps in her stats. But when she was put in she was often passing. This is most definitely what resulted in the high serve-receiving and digging percentages.
+Ellis has a good service receiving percentage.
 
 ### Wilkins
 ![](#muff)
-Wilkins has good serve-receiving, digging, and service percentages. This is because as the libero her only job on the court was to pass and serve. A libero is often a team's best passer and that showed in Wilkins's high passing stats. There was not enough data to determine a block percentage because as a libero Wilkins didn’t play front row in a single game.
+Wilkins has good service receiving, digging, and service percentages. There was not enough data to determine block percentage.
 
 ### Todd
 ![](#cat)
-Though Todd didn’t play much she has a very high blocking percentage and a great kill percentage. This is most likely due to her being put in as an outside or right-side hitter when playing. There was not enough data to determine ball handling or serve-receiving percentages. Which is due to her never playing back row.
+Todd has a very high blocking percentage and a great kill percentage. There was not enough data to determine ball handling or service receiving percentages.
 
 ### Woods
 ![](#hadley)
-Woods has a very high kill, hitting, ace, blocking, ball handling, serve-receiving, and digging percentages. She is a very well-rounded player. This is most likely due to her position and the amount that she played. Woods played every minute of every game she was present for, giving her ample chance to boost any stats. She was also a setter, along with Layno, running a 6-2 rotation. Whenever she was back row she set, bumping her ball-handling stats higher than most teammates. When she was front row she hit on the right-side. She was set less than the outside hitters but she was set often enough to have high hitting and kill percentages. Also as a right-side, she had more opportunities to up her blocking stats than others as she was across the net from the opponent’s outside hitters.
+Woods has very high kill, hitting, ace, blocking, ball handling, service receiving, and digging percentages. She is a very well rounded player. 
 
 # Conclusion
  The NCSSM Volleyball Team is made up of many strong players. Each player has their own strengths making them suitable players for their respective positions on the court. Our volleyball-statistic analysis makes it easy to explore an individual player's strengths and weaknesses. This arrangement of data may allow a player to improve their deficiencies or find a new volleyball position to take advantage of their strengths.

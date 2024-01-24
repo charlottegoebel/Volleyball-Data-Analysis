@@ -90,7 +90,7 @@ Though Todd didn’t play much she has a very high blocking percentage and a gre
 
 ### Woods
 ![](#hadley)
-Woods has a very high kill, hitting, ace, blocking, ball handling, serve-receiving, and digging percentages. She is a very well-rounded player. This is most likely due to her position and the amount that she played. Woods played every minute of every game she was present for, giving her ample chance to boost any stats. She was also a setter, along with Layno, running a 6-2 rotation. Whenever she was back row she set, bumping her ball-handling stats higher than most teammates. When she was front row she hit on the right-side. She was set less than the outside hitters but she was set often enough to have high hitting and kill percentages. Also as a right-side, she had more opportunities to up her blocking stats than others as she was across the net from the opponent’s outside hitters.
+Woods has very high kill, hitting, ace, blocking, ball handling, service receiving, and digging percentages. She is a very well rounded player. 
 
 # Conclusion
  The NCSSM Volleyball Team is made up of many strong players. Each player has their own strengths making them suitable players for their respective positions on the court. Our volleyball-statistic analysis makes it easy to explore an individual player's strengths and weaknesses. This arrangement of data may allow a player to improve their deficiencies or find a new volleyball position to take advantage of their strengths.
